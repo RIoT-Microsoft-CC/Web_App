@@ -1,0 +1,28 @@
+TODO:
+
+comment and documentation
+check_errors
+die( print_r( sqlsrv_errors(), true));
+
+
+................
+Add Device PHP
+
+give drop down to add devices
+Log out of env feture also
+
+
+................
+css
+
+slider new
+individual division for each slider
+
+
+................
+Appliances to demonstrate:
+
+Fan
+Light(LED + normal+ bulb)
+Table lamp
+Thermostat(AC/heater)
