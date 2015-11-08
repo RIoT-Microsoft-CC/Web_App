@@ -29,8 +29,8 @@
             $_SESSION['random_key'] = rand(10000,99999);
             $_SESSION['temp_user'] = $username;
 
-            $user = 'azure_430238948e4922913c2e268be74c2d44@azure.com';
-            $pass = 'p39RnC8dNWYXW0z';
+            $user = ''; /*removed from public visibility*/
+            $pass = ''; /*removed from public visibility*/
 
             $sendgrid = new SendGrid($user, $pass);
             $email    = new SendGrid\Email();
